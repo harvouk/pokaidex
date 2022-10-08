@@ -1,4 +1,4 @@
-# PokAIdex
+# PokAIdex PR Test
 
 A #hacktoberfest 2022 project to create a Pokedex inspired website that incorporates various AI elements and integrations such as OpenAI's GPT-3. 
 
